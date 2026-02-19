@@ -27,7 +27,7 @@ export default function App() {
       <div className="flex-[5] min-h-0 px-6 text-center relative z-10 flex flex-col items-center justify-center">
 
         {/* Logo / Brand Mark */}
-        <div className="relative -mt-20 mb-1 mx-auto w-48 h-36 flex items-center justify-center shrink-0">
+        <div className="relative -mt-24 mb-2 mx-auto w-48 h-36 flex items-center justify-center shrink-0">
           <div className="absolute inset-0 bg-gold-500/20 blur-3xl rounded-full opacity-60"></div>
           <img
             src="/raya-logo.jpg"
@@ -45,7 +45,7 @@ export default function App() {
         </div>
 
         {/* Title */}
-        <h1 className="text-3xl font-serif text-gold-500 mb-2 tracking-tight drop-shadow-md shrink-0">
+        <h1 className="text-4xl font-serif text-gold-500 mb-6 tracking-tight drop-shadow-md shrink-0">
           Raya Home
         </h1>
 
