@@ -16,7 +16,7 @@ export default function App() {
         {/* Header / Hero Image Area */}
         <div className="relative h-56 bg-black-900 overflow-hidden">
           <img
-            src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80"
+            src="/restaurant-bg.jpg"
             alt="Raya Home restoran"
             className="w-full h-full object-cover opacity-60 hover:scale-105 transition-transform duration-700 ease-out"
             referrerPolicy="no-referrer"
